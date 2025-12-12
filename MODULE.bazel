@@ -1,6 +1,6 @@
 module(
     name = "icestorm",
-    version = "0.0.1"
+    version = "0.0.0"
 )
 
 bazel_dep(name = "rules_python", version = "1.4.0")

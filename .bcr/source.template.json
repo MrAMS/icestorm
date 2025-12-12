@@ -1,0 +1,5 @@
+{
+  "integrity": "",
+  "strip_prefix": "icestorm-{VERSION}",
+  "url": "https://github.com/{OWNER}/{REPO}/releases/download/v{VERSION}/icestorm-{VERSION}.tar.gz"
+}
